@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Lora&family=Playball&family=Ubuntu&family=Xanh+Mono&display=swap');
+
+
+.topo{
+    width: 98%;
+    text-align: center;
+    background:lightpink;
+    padding:8px;
+}
+
+.topo p {
+    background-color:mediumvioletred;
+    color: blanchedalmond;
+    font-family: 'Lora', serif;
+    padding: 30px;
+}
+
+.lora {
+    text-align: center;
+    font-family: 'Lora', serif;
+    color:red;
+    font-size: 22px;
+}
+
+.lora h1 {
+    font-size: 35px;
+    color:chartreuse;
+}
+
+.amatic {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    color:orange;
+    font-size: 22px;
+}
+
+.amatic h1 {
+    font-size: 35px;
+    color:navy;
+}
+
+.playball {
+    text-align: center;
+    font-family: 'Playball', cursive;
+    color:saddlebrown;
+    font-size: 22px;
+}
+
+.playball h1 {
+    font-size: 35px;
+    color:teal;
+}
+
+.ubuntu {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color:orangered;
+    font-size: 22px;
+}
+
+.ubuntu h1 {
+    font-size: 35px;
+    color:palevioletred;
+}
+
+.xanh {
+    text-align: center;
+    font-family: 'Xanh Mono', monospace;
+    color:darkgoldenrod;
+    font-size: 22px;
+}
+
+.xanh h1 {
+    font-size: 35px;
+    color:darkblue;
+ }
+
+ footer {
+     width: 98%;
+    text-align: center;
+    background-color:lightpink;
+    padding: 10px;
+    font-size: 20px;
+}
+html {
+    border-width: 10px;
+    border-style: double;
+    border-color:orchid;
+}
